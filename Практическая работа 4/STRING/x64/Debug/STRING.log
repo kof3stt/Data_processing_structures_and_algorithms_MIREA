@@ -1,0 +1,3 @@
+﻿  STRING.cpp
+C:\My_projects\siaod_4\STRING\STRING.cpp(55,8): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  STRING.vcxproj -> C:\My_projects\siaod_4\x64\Debug\STRING.exe

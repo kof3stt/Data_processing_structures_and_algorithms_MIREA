@@ -1,0 +1,4 @@
+﻿  siaod_4_protection.cpp
+C:\My_projects\siaod_4\siaod_4_protection\siaod_4_protection.cpp(24,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\My_projects\siaod_4\siaod_4_protection\siaod_4_protection.cpp(33,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  siaod_4_protection.vcxproj -> C:\My_projects\siaod_4\x64\Debug\siaod_4_protection.exe

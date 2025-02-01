@@ -1,0 +1,5 @@
+﻿  DynATD.cpp
+C:\My_projects\siaod_3\siaod3_dyn\DynATD.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  siaod3_dyn.cpp
+  Создание кода...
+  siaod3_dyn.vcxproj -> C:\My_projects\siaod_3\x64\Debug\siaod3_dyn.exe

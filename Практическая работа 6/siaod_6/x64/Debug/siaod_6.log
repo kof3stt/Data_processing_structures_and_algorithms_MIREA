@@ -1,0 +1,3 @@
+﻿  siaod_6.cpp
+C:\My_projects\siaod_6\siaod_6\siaod_6.cpp(12): warning C4715: print_numbers: значение возвращается не при всех путях выполнения
+  siaod_6.vcxproj -> C:\My_projects\siaod_6\x64\Debug\siaod_6.exe

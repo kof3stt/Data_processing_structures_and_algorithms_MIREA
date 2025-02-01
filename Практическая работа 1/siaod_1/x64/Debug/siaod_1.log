@@ -1,0 +1,10 @@
+﻿  TypeX.cpp
+C:\My_projects\siaod_1\siaod_1\TypeX.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\My_projects\siaod_1\siaod_1\TypeX.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\My_projects\siaod_1\siaod_1\TypeX.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\My_projects\siaod_1\siaod_1\TypeX.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\My_projects\siaod_1\siaod_1\TypeX.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\My_projects\siaod_1\siaod_1\TypeX.cpp(35,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\My_projects\siaod_1\siaod_1\TypeX.cpp(49,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\My_projects\siaod_1\siaod_1\TypeX.cpp(77,20): warning C4018: <: несоответствие типов со знаком и без знака
+  siaod_1.vcxproj -> C:\My_projects\siaod_1\x64\Debug\siaod_1.exe

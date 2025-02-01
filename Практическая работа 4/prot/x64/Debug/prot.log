@@ -1,0 +1,4 @@
+﻿  prot.cpp
+C:\My_projects\siaod_4\prot\prot.cpp(25,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\My_projects\siaod_4\prot\prot.cpp(29,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  prot.vcxproj -> C:\My_projects\siaod_4\x64\Debug\prot.exe

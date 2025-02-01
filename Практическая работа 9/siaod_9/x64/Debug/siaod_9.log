@@ -1,0 +1,9 @@
+﻿  Table.cpp
+C:\My_projects\siaod_9\siaod_9\Table.cpp(103,29): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\My_projects\siaod_9\siaod_9\Table.cpp(146,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\My_projects\siaod_9\siaod_9\Table.cpp(172,9): warning C4244: инициализация: преобразование "const _Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+  siaod_9.vcxproj -> C:\My_projects\siaod_9\x64\Debug\siaod_9.exe

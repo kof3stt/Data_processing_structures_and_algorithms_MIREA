@@ -1,0 +1,5 @@
+﻿  StatATD.cpp
+C:\My_projects\siaod_3\siaod_3\StatATD.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  siaod_3.cpp
+  Создание кода...
+  siaod_3.vcxproj -> C:\My_projects\siaod_3\x64\Debug\siaod_3.exe

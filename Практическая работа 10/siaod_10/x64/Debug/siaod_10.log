@@ -1,0 +1,4 @@
+﻿  siaod_10.cpp
+C:\My_projects\siaod_10\siaod_10\siaod_10.cpp(146,6): warning C4101: pos: неиспользованная локальная переменная
+C:\My_projects\siaod_10\siaod_10\siaod_10.cpp(146,19): warning C4101: n: неиспользованная локальная переменная
+  siaod_10.vcxproj -> C:\My_projects\siaod_10\x64\Debug\siaod_10.exe
